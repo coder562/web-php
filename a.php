@@ -10,6 +10,4 @@ $c="pn";
 // $d=print($c,$b);
 echo $a,$b,$c; //echo does not return while print returns
 
-
-
 ?>
