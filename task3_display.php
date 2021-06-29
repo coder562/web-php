@@ -38,6 +38,7 @@
 					<a href="task3_delete.php?a=<?php echo $a['id']?>" class="btn btn-danger">Delete</a>
 				</td>
 			</tr>
+			
 			<?php
 		}
 			?>
